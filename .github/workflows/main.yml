@@ -32,7 +32,4 @@ jobs:
           file: ../Dockerfile
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
-        env:
-          DOCKER_CLI_ASK_PASS: 0
-        env_file:
-          - ../env.list
+       
