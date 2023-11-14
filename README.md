@@ -1,6 +1,6 @@
 # Note Keeper App
 
-The Note Keeper app, inspired by the teachings of the "The Complete 2023 Web Development Bootcamp" course by Angela Yu, is a user-friendly web application designed to help you effectively manage your notes and information. This README provides an overview of the app's features, components, technologies used, and usage instructions.
+The Note Keeper app, inspired by the teachings of the "The Complete 2023 Web Development Bootcamp" course by Angela Yu, is a user-friendly web application designed to help you effectively manage your notes and information. This README provides an overview of the app's features, components, technologies used, and usage instructions.Go through the README to get a clear understanding.
 
 ## Features
 
